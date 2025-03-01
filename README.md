@@ -63,7 +63,7 @@ A fun and challenging car racing game built with Python and Pygame where you dod
 ### Difficulty System
 - Enemy cars spawn more frequently as time passes
 - Enemy speed increases over time
-- Each game starts fresh with base difficulty
+- Each game starts fresh with base difficulty.
 
 ### Scoring System
 - Earn points by surviving and dodging cars
